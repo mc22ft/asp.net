@@ -1,0 +1,16 @@
+﻿body {
+    text-align: center;    
+}
+
+h1{
+    color:red;
+}
+
+button, button a{
+    position:relative;
+
+}
+button a{
+    top:0;left:0;bottom:0;right:0;
+
+}
